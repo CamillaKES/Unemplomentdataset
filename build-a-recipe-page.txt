@@ -1,0 +1,44 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+</head> 
+  <title>"Chocolate Cake"</title>
+</head>
+
+<body>
+  <h1>Chocolate Cake</h1>
+  <p>Chocolate Cake is the best dessert loved by many people all over the world.Is a cake flavored with melted chocolate,cocoa powder,or both.</p>
+  </h1>
+  <h2> Ingredients</h2>
+ <ul>
+      <li>2 cups white sugar</li>
+      <li>1 3/4 all purpose flour</li>
+      <li>3/4 cup cocoa powder</li>
+      <li>1 1/2 tsp baking powder</li>
+      <li>1 1/2 tsp baking soda</li>
+      <li>1/2 tsp salt</li>
+      <li>large eggs</li>
+      <li>1 cup water</li>
+      <li>1 cup milk</li>
+      <li>1/2 oil</li>
+      <li>1 1/2 tsp vanilla extract</li>
+ </ul>
+ <h2> Instructions</h2>
+ <ol>
+    <li>You frist mix the dry ingredients</li>
+    <li> Than add the water ingredients on the dry </li>
+    <li> Make sure that you mix well</li>
+    <li>Than leave it to rest before you put in on the oven</li>
+    </ol>
+   <img src ="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg " alt="The best Chocolate Cake in the world"/> 
+</body>
+</html>
+
+
+
+
+** end of index.html **
+
